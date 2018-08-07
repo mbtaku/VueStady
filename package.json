@@ -9,6 +9,7 @@
   "author": "taku",
   "license": "ISC",
   "dependencies": {
+    "qrious": "^4.0.2",
     "vue": "^2.5.16"
   }
 }
